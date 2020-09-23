@@ -63,7 +63,7 @@ p {
 		color:black;
 		font-family: Italic;
 		font-weight: bold;
-  		background-color: pink;
+  		background-color: #ffc0cb;
   		width: auto;
   		height: 20px;
   		float : right;
@@ -74,7 +74,7 @@ p {
 		color:white;
 		font-family: Italic;
 		font-weight: bold;
-  		background-color: red;
+  		background-color: #ff0000;
   		width: auto;
   		height: 20px;
   		float : right;
@@ -85,7 +85,7 @@ p {
 		color:black;
 		font-family: Italic;
 		font-weight: bold;
-  		background-color: yellow;
+  		background-color: #F8DE7E;
   		width: auto;
   		height: 20px;
   		float : right;
